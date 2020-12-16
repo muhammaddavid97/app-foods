@@ -1,0 +1,12 @@
+#app{
+  font-family: 'Montserrat', sans-serif;
+}
+
+.router-link-exact-active{
+  font-weight: bold;
+}
+
+.card-img-top{
+  border-top-right-radius: 25px;
+  border-top-left-radius: 25px;
+}
