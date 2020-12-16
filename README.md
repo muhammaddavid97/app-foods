@@ -1,3 +1,16 @@
+## app-foods
+~~~
+Merupakan project sederhana yang saya buat untuk membangun portofolio
+
+Project ini dibangun dengan menggunakan stack
+  1.HTML5
+  2.CSS3
+  3.JAVASCRIPT
+  4.VUEJS
+  5.BOOTSTRAP4
+
+~~~
+
 # myproject
 
 ## Project setup
@@ -27,3 +40,4 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
