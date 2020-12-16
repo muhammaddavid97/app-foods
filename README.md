@@ -9,6 +9,10 @@ Project ini dibangun dengan menggunakan stack
   4.VUEJS
   5.BOOTSTRAP4
 
+Untuk menampilkan data makanan kita harus menjalankan file src/db.json
+
+Ketikan di Run Administrator json-server --watch db.json
+
 ~~~
 
 # myproject
